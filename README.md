@@ -16,11 +16,11 @@
     <br> 
 </p>
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/https://raganork-web.vercel.app/)      
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/https://bit.ly/princerudh-md-qr/)      
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUHAID-BROO/PAATHU-MD.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUHAID-BROO/PAATHU.git)
 
 
 
