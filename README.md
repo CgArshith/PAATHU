@@ -4,7 +4,6 @@
 <span class="avatar"><img height='320' src="https://i.imgur.com/1LWT08e.jpeg"> </a></span> 
 </p>
 
-### Paathu WhatsApp bot
 
 ### Setup
 
